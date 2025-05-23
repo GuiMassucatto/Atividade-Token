@@ -30,7 +30,7 @@ npm install
 
 ```env
 PORT=3000
-JWT_SECRET=sua_chave_secreta
+SECRET_JWT=4ffb1c229f29dfa21b739453dba1689c2a0bb2de3c0ac11b5be4b69ed37a7d6bcb4e7f90807a61793af0aaf89d47420a180947dd195bc89cfc211c472847934b
 ```
 
 5. Inicie o servidor com:
@@ -57,7 +57,7 @@ npm run dev
 ```json
 {
   "email": "usuario@teste.com",
-  "senha": "123456"
+  "senha": "123456789"
 }
 ```
 
