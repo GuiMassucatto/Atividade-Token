@@ -56,7 +56,7 @@ npm run dev
 
 ```json
 {
-  "email": "usuario@teste.com",
+  "email": "usuario@gmail.com",
   "senha": "123456789"
 }
 ```
@@ -68,7 +68,3 @@ npm run dev
 ```
 Authorization: Bearer seu_token_aqui
 ```
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT.
