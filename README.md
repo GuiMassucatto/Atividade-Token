@@ -2,6 +2,14 @@
 
 Este projeto implementa um sistema básico de autenticação utilizando JWT (JSON Web Tokens) para proteger rotas e controlar sessões de usuários em uma API.
 
+##  Estrutura do Projeto
+
+```
+Atividade-Token/
+├── api/     
+└── web/    
+```
+
 ## Tecnologias Utilizadas
 
 - Node.js
@@ -68,3 +76,8 @@ npm run dev
 ```
 Authorization: Bearer seu_token_aqui
 ```
+
+##  Requisitos
+
+- Node.js instalado para rodar a API.
+- Um navegador moderno para acessar os arquivos HTML.
